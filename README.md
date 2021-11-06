@@ -1,2 +1,3 @@
 # Artifact
-Artifact website
+
+This is a website about the most rare ancient relics 
